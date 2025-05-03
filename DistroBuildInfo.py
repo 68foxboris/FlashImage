@@ -243,7 +243,7 @@ def generate1():
             MACHINE = "hd66se"
         elif (BUILDMACHINE == "vimastec1500"):
             MACHINE = "vs1500"
-        elif (BUILDMACHINE == "gi11000") or (BUILDMACHINE == "viper4k51"):
+        elif (BUILDMACHINE == "gi11000") or (BUILDMACHINE == "et1x000") or (BUILDMACHINE == "viper4k51"):
             MACHINE = "et1x000"
         elif (BUILDMACHINE == "beyonwizu4"):
             MACHINE = "et13000"
